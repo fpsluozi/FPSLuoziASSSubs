@@ -11,6 +11,20 @@ FPS罗兹 - ASS开源字幕库
 ## 字幕制作软件
 <a href="http://www.aegisub.org/" target="_blank">AEGISUB</a> 
 
+## 简易压制教程
+本段将介绍如何使用FFmpeg把片源与ASS字幕文件压制成符合B站格式的MP4视频。
+
+### MAC OSX
+1. 安装[Homebrew](http://brew.sh/)
+2. 安装ffmpeg与libass库 `brew install ffmpeg --with-libass`
+3. 打开"/脚本"文件夹中的render.sh，修改对应参数，然后拷贝到合适的位置
+4. 命令行运行`` bash render.sh``
+5. 上传
+
+### Windows
+制作中……
+
+
 ## 新浪微博
 <a href="http://www.weibo.com/fpsluozi/" target="_blank">FPS罗兹</a>
 
