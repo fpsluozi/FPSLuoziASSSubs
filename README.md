@@ -17,12 +17,12 @@ FPS罗兹 - ASS开源字幕库
 ### MAC OSX
 1. 安装[Homebrew](http://brew.sh/)
 2. 安装ffmpeg与libass库 `brew install ffmpeg --with-libass`
-3. 打开"/脚本"文件夹中的render.sh，修改对应参数，然后拷贝到合适的位置
+3. 打开"/脚本"文件夹中的render.sh，修改对应参数，然后拷贝到合适的位置 注：请确保你的片源名和字幕文件名不包含特殊字符和空格
 4. 命令行运行`` bash render.sh``
 5. 上传
 
 ### Windows
-制作中……
+MediaCoder + VirtualDub + VSFilter.dll教程将另行篇幅……
 
 
 ## 新浪微博
